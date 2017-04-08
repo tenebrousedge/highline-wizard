@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Highline::Wizard::VERSION
   spec.authors       = ["Guillermo Álvarez"]
   spec.email         = ["guillermo@cientifico.net"]
-  spec.description   = %q{Interactive array based wizzard bassed in highline}
+  spec.description   = %q{Interactive array based wizard based in highline}
   spec.summary       = %q{Let the people choose and focus in your program}
-  spec.homepage      = "http://github.com/guillermo/highline_wizzard"
+  spec.homepage      = "http://github.com/guillermo/highline-wizard"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
